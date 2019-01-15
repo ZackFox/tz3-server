@@ -1,0 +1,10 @@
+*.egg-info
+*.pot
+*.py[co]
+.tox/
+.env
+package-lock.json
+node_modules/
+.DS_Store
+dist
+.vscode
